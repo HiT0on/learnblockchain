@@ -10,15 +10,17 @@
 
 使用老师账号修改成功：https://testnet.snowtrace.io/tx/0x367363006f4980116cd8e09c03c560752b406589847497c2b4ef6c45704668a4
 
-
+![image-20220225201954272](https://github.com/HiT0on/learnblockchain/blob/main/img/2.2-1.png)
 
 使用非老师账号修改失败：https://testnet.snowtrace.io/tx/0xd80dbadb2e81c5aa82dd1c8e969a823881d636ea74645d4dfbd3f18ebe116c13
 
-
+![image-20220225201954272](https://github.com/HiT0on/learnblockchain/blob/main/img/2.2-2.png)
 
 * 分数不可以⼤于 100
 
 设置分数为101交易失败：https://testnet.snowtrace.io/tx/0xf6a395a4966ae72c214b52608b8a77d8f4ba1f3018f777c38bb0b454b48fe6a8
+
+![image-20220225201954272](https://github.com/HiT0on/learnblockchain/blob/main/img/2.2-3.png)
 
 
 
@@ -29,3 +31,6 @@
 先把合约地址设置为teacher
 
 交易hash:https://testnet.snowtrace.io/tx/0x2f5bfb83c1a6700d295321f478946e524ecb4f5740ef393dc9bf842d58cec0c2
+
+![image-20220225201954272](https://github.com/HiT0on/learnblockchain/blob/main/img/2.2-4.png)
+
