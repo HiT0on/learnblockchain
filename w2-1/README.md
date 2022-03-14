@@ -8,14 +8,14 @@
 
   交易hash:https://testnet.bscscan.com/tx/0x7c9f08910f30d0845ddd681ce89263a729f30ee7dc091663ba7fc92a927239a7
 
+  ![image-20220225201954272](https://github.com/HiT0on/learnblockchain/blob/main/img/2.1-1.png)
+
 * 在Bank合约记录每个地址转账⾦额
 
-
-
-
+* ![image-20220225201954272](https://github.com/HiT0on/learnblockchain/blob/main/img/2.1-2.png)
 
 * 编写 Bank合约withdraw(), 实现提取出所有的 ETH
 
-
+* ![image-20220225201954272](https://github.com/HiT0on/learnblockchain/blob/main/img/2.1-3.png)
 
 交易hash:https://testnet.bscscan.com/tx/0x402736bebad4768f71b0d1bfb9630ec6b43d50b29ffdc7fc14a2aec32b9c6e3f
